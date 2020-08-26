@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NSString+ZQ_Extension.h"
 #import "UIColor+ZQ_Extension.h"
 #import "UIView+ZQ_Extension.h"
 #import "ZQ_Extension.h"

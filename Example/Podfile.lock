@@ -1,5 +1,5 @@
 PODS:
-  - ZQ_Extension (0.1.0)
+  - ZQ_Extension (0.1.1)
 
 DEPENDENCIES:
   - ZQ_Extension (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZQ_Extension: 3214a8cba33e5946c92410f5904b4fec90c7d2ef
+  ZQ_Extension: e45718eda68c8e49a95b107d0419d8ecf3b6c2be
 
 PODFILE CHECKSUM: 04caca48e7fc7278ad9c0c58c8a6e72fca8036ba
 
