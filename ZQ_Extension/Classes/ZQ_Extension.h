@@ -8,3 +8,4 @@
 
 #import "UIColor+ZQ_Extension.h"
 #import "UIView+ZQ_Extension.h"
+#import "NSString+ZQ_Extension.h"

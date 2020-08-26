@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZQ_Extension'
-  s.version          = '0.1.1'
+  s.version          = '0.1.1.1'
   s.summary          = 'basic extension by zq'
 
 # This description is used to generate tags and improve search results.
