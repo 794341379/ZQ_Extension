@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZQ_Extension_Example' do
+  pod 'ZQ_Extension', :path => '../'
+
+  target 'ZQ_Extension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
