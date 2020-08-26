@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ZQ_Extension'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ZQ_Extension.'
+  s.summary          = 'basic extension by zq'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/794341379@qq.com/ZQ_Extension'
+  s.homepage         = 'https://github.com/794341379'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '794341379@qq.com' => 'mrzeng_sky@163.com' }
-  s.source           = { :git => 'https://github.com/794341379@qq.com/ZQ_Extension.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/794341379/ZQ_Extension.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

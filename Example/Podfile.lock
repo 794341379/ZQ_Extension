@@ -1,0 +1,16 @@
+PODS:
+  - ZQ_Extension (0.1.0)
+
+DEPENDENCIES:
+  - ZQ_Extension (from `../`)
+
+EXTERNAL SOURCES:
+  ZQ_Extension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZQ_Extension: 3214a8cba33e5946c92410f5904b4fec90c7d2ef
+
+PODFILE CHECKSUM: 04caca48e7fc7278ad9c0c58c8a6e72fca8036ba
+
+COCOAPODS: 1.9.3

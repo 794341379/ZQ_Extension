@@ -7,7 +7,7 @@
 //
 
 #import "ZQ_ViewController.h"
-
+#import <ZQ_Extension/ZQ_Extension.h>
 @interface ZQ_ViewController ()
 
 @end
@@ -17,7 +17,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    [self.view zq_removeAllSubviews];
 }
 
 - (void)didReceiveMemoryWarning
